@@ -9,10 +9,10 @@
 4. __Data Pre-processing__
 5. __Training set & Testing set__
 6. __Building the model__
-  a. *Gausian*
-  b. *LinearSVC*
-  c. *KNN classifier*
+  * *Gausian*
+  * *LinearSVC*
+  * *KNN classifier*
 7. __Performation & Report__
-  a. *Gausian*
-  b. *LinearSVC*
-  c. *KNN classifier*
+  * *Gausian*
+  * *LinearSVC*
+  * *KNN classifier*
