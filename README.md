@@ -9,13 +9,13 @@
 4. __Data Pre-processing__
 5. __Training set & Testing set__
 6. __Building the model__
-  > *Gausian*
-  > *LinearSVC*
-  > *KNN classifier*
+  * *Gausian*
+  * *LinearSVC*
+  * *KNN classifier*
 7. __Performation & Report__
-  > *Gausian*
-  > *LinearSVC*
-  > *KNN classifier*
+  * *Gausian*
+  * *LinearSVC*
+  * *KNN classifier*
 
 ## Scikit Algorithms cheat sheet 
 <img src='https://scikit-learn.org/stable/_static/ml_map.png'>
